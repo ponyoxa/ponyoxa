@@ -1,7 +1,5 @@
-# ponyoxa
-
-## 職務経歴
-
-- 2022/04 - PHP とテンプレートエンジンをもちいた開発業務
-- 2022/11 - Java での基幹システム構築プロジェクトで技術サポート・インフラチームで開発業務
-- 2024/03 - TypeScript をもちいたバックエンド開発業務
+<div align="center">  
+  <h2>ponyoxa</h2>
+  <p style="font-size: 32px"><a href="https://ponyoxa.com" target="_blank">ponyoxa.com</a></p>
+  <p>backend engineer</p>
+</div>
